@@ -1,10 +1,9 @@
 # Eat Da Burger
 
-![License badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Link to deployed application:
 
-https://eat-da-burger-1088.herokuapp.com/
+https://protected-sea-27767.herokuapp.com/
 
 ## Description
 An app that lets users input the names of burgers they'd like to devour. The name of the burgers are stored in a database along with whether its devoured or not.
